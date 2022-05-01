@@ -9,7 +9,7 @@ Simulating a match of Uno to discuss different strategies
   Play by number: first try to find a card with the same number.
 
 ## Results by now
-Run 100'000 games, and the petanges of win:
+Run 100'000 games, and the % of win:
   - 01.021%: game ties (run out of cards in the main deck)
   - 54.555%: player prioritizing cards of the same color wins
   - 44.424%: player prioritizing cards of the same number wins
