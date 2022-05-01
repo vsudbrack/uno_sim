@@ -20,14 +20,11 @@ By playing a card with a color equal to the color of the card on the table, you 
 
 ## Future prospects:
 ### In code:
-  In strategy by color, always try to play a different number.
-  In strategy bz number, always try to play a different color. 
-  Play equal cards together. 
-  Add special cards (?)
-  When the main deck ends, suffles the table cards and add to the main deck. No ties possible. 
+  - In strategy by color, always try to play a different number.
+  - In strategy by number, always try to play a different color. 
+  - Play equal cards together. 
+  - Add special cards (?)
+  - When the main deck ends, suffles the table cards and add to the main deck. No ties possible. 
   
  ### In analysis:
-  Analyze each strategy against a player with no strategy
-  
-  
-
+  - Analyze each strategy against a player with no strategy (plays random card whenever possible). 
